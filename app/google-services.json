@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "558583593339",
+    "firebase_url": "https://filesendsusan.firebaseio.com",
+    "project_id": "filesendsusan",
+    "storage_bucket": "filesendsusan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558583593339:android:109526ed9d042b92",
+        "android_client_info": {
+          "package_name": "spicysusan.filesend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558583593339-ep2jsv4u14s27qvmti6rrshanlh1gmvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "spicysusan.filesend",
+            "certificate_hash": "8907534bc61af7a4ac1a4d719b073449b34416ec"
+          }
+        },
+        {
+          "client_id": "558583593339-tv8l7ergnt2puufkb22r60rqb4u3nrb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTm8tR6VJiT4hzTQC0HnUhhNwvThAihV0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558583593339-tv8l7ergnt2puufkb22r60rqb4u3nrb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
