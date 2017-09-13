@@ -9,6 +9,8 @@ Todo:
 - Find limitations.
 - This was too easy, See if it's just as easy from the micro side.
 - If so move to Node based background. 
+- Look into API.ai or if it's applicable to voice recognition.
+
 
 
 ```
