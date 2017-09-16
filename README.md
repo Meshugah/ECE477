@@ -12,7 +12,11 @@ Todo:
 - Look into API.ai or if it's applicable to voice recognition.
 
 
+### Septemeber 16th
 
-```
-Give examples
-```
+Have NFC/ Wifi module ready for demo.
+Todo:
+- Finish NFC work
+- repogram Tags
+- Wifi module setup
+- Look into router/ port forwarding
